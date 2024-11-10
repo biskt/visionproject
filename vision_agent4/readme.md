@@ -42,5 +42,5 @@ class TrafficWeak(QMainWindow):
         self.signFiles=[['child.png','어린이'],['elder.png','노인'],['disabled.png','장애인']]	# 표지판 모델 영상 이름 설정
         self.signImgs=[]
 ```
-#### 먼저 ui를 생성하고 준비된 표지판 이미지 파일들을 지정하고 영상에 저장할 객체를 생성한다.
+먼저 ui를 생성하고 준비된 표지판 이미지 파일들을 지정하고 영상에 저장할 객체를 생성한다.
 
