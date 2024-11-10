@@ -6,7 +6,7 @@
 -------------
 ## 구현 내용
 
-1. 파노라마 클래스 선언과 ui 만들기
+1. #### 파노라마 클래스 선언과 ui 만들기
 ```
 class Panorama(QMainWindow) :
     def __init__(self) :
@@ -40,7 +40,7 @@ class Panorama(QMainWindow) :
 ```
 "영상 수집" 버튼을 제외하고 비활성화를 시켜준다.
 
-2. 영상 수집 버튼
+2. #### 영상 수집 버튼
 ```
 def collectFunction(self):
         self.showButton.setEnabled(False) 
@@ -73,7 +73,7 @@ def collectFunction(self):
 ```
 "c"를 눌러서 영상에서 수집하고 "q"를 눌러 저장을 한다.
 
-3. 영상수집 후 봉합하기
+3. #### 영상수집 후 봉합하기
 ```
 def showFunction(self):
         self.label.setText('수집된 영상은 '+str(len(self.imgs))+'장 입니다.')
