@@ -8,10 +8,13 @@ git clone "https://github.com/biskt/visionproject.git"
 conda activate 이름
 ```
 환경을 만든 다음 vscode로 폴더를 열어서 준비를 마친다.
+
 =======
 
 2. 이 모델을 만드는 목적은 교통약자(어린이, 노인, 장애인 등)의 안전을 더욱 신경써야하는 구간을 나타내는 표지판들을 컴퓨터 비전 기술로 인식한 후 운전자에게 알려주는 기술을 활용해 교통약자의 사고율을 줄이는 것이다. 미디어에서 보이는 교통약자 표지판을 인식해주는 기술을 활용한다.
+
 =========
+
 3. 구현 내용
 ```
 class TrafficWeak(QMainWindow):
