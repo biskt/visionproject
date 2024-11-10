@@ -97,4 +97,3 @@ self.label.setText(self.signFiles[best][1]+' 보호구역입니다. 30km로 서�
                 winsound.Beep(3000,500)
 ```
 어떤 보호구역인지 알려주고 비프음을 들려주며 운전자에게 주의를 준다.
-=====
