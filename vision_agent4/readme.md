@@ -103,4 +103,4 @@ self.label.setText(self.signFiles[best][1]+' 보호구역입니다. 30km로 서�
 어떤 보호구역인지 알려주고 비프음을 들려주며 운전자에게 주의를 준다.
 
 4. 실행
-<img src = "./vision_agent4/play1.png" width="700" height="370">
+<img src = "play1.png" width="700" height="370">
