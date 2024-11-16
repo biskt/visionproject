@@ -104,3 +104,10 @@ self.label.setText(self.signFiles[best][1]+' 보호구역입니다. 30km로 서�
 
 4. 실행
 <img src = "play1.png" width="500" height="280">
+실행을 하면 사진과 같이 UI가 생기고 표지판 등록을 눌러 등록된 사진 3가지를 띄운다.
+<img src = "play2.png" width="500" height="280">
+그 다음 운전 영상을 첨부한다.
+<img src = "play3.png" width="500" height="280">
+그 다음 인식을 누른다.
+<img src = "play4.png" width="500" height="280">
+마지막으로 인식을 하는 창이 나오고 서행운전하라는 말이 나온다.
